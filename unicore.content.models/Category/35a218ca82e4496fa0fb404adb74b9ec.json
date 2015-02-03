@@ -1,0 +1,20 @@
+{
+  "subtitle": "Baby Bengali Bd", 
+  "uuid": "35a218ca82e4496fa0fb404adb74b9ec", 
+  "language": "ben_BD", 
+  "title": "\u09b6\u09bf\u09b6\u09c1", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Baby_Bengali_Bd", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
