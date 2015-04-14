@@ -4,12 +4,12 @@
   "locale": "ben_BD", 
   "image": null, 
   "logo_text": "\u09ac\u09bf\u09b6\u09c7\u09b7\u099c\u09cd\u099e \u098f\u09ac\u0982 \u09ae\u09be \u09ac\u09be\u09ac\u09be\u09a6\u09c7\u09b0 \u09aa\u09b0\u09be\u09ae\u09b0\u09cd\u09b6", 
-  "logo_image": null, 
+  "logo_image": "393bcdbc316d4713a4f883027a0d412e", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
