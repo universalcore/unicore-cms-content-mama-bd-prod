@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "d7400f1ca34c4444932b6f19fb196910", 
   "language": "ben_BD", 
-  "title": "Aponjon Moms\u2019 Stories", 
+  "title": "Aponjon Stories", 
   "image": null, 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "mama-to-mama", 
